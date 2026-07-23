@@ -233,5 +233,5 @@ Connect with Us
 " 1 :add]
  ["expediagroup-tos-1" :tos/source-url "https://www.expediagroup.com/en-us/terms-of-use" 1 :add]
  ["expediagroup-tos-1" :tos/retrieved-at "2026-07-10" 1 :add]
- ["expediagroup-tos-1" :tos/sha256 "cce1e26015cb912eb9abeef1c912098623e66d70b0e1099e468e2c305bef14b7" 1 :add]
+ ["expediagroup-tos-1" :tos/sha256 "18fef6c3e7e4468d35cd644b3e947a3c95668cf3a98ff1cfd3761b2672b991fd" 1 :add]
  ["expediagroup-tos-1" :tos/doc-type :terms-of-use 1 :add]]
