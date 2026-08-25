@@ -1,12 +1,5 @@
-{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/2549009GW3Z3DQCB8H87), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
- :company/jurisdiction "US-DE"
- :company/legal-address "c/o NRAI, 1209 Orange Street, 19801, Wilmington, US-DE, US"
- :company/legal-form-elf "XTIQ"
- :company/legal-jurisdiction "US-DE"
- :company/legal-name "Expedia Group, Inc."
+{:company/legal-name "Expedia Group, Inc."
  :company/lei "2549009GW3Z3DQCB8H87"
- :company/lei-status "ISSUED"
- :company/postal-address "1111 Expedia Group Way West, Attn: Legal, 98119, Seattle, US-WA, US"
- :company/registration-number "3956616"
- :company/ticker "EXPE (NASDAQ)"
- :company/website "https://www.expediagroup.com"}
+ :company/jurisdiction "US-DE"
+ :company/website "https://www.expediagroup.com"
+ :company/ticker "EXPE (NASDAQ)"}
